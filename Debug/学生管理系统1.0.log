@@ -1,0 +1,14 @@
+﻿  Contact.c
+D:\程序记录\学生管理系统1.0\Contact.c(739,20): warning C4133: “函数”: 从“char [3]”到“FILE *”的类型不兼容
+D:\程序记录\学生管理系统1.0\Contact.c(787,17): warning C4098: “ChangePass_Tea”:“void”函数返回值
+D:\程序记录\学生管理系统1.0\Contact.c(832,14): warning C4133: “函数”: 从“char [3]”到“FILE *”的类型不兼容
+D:\程序记录\学生管理系统1.0\Contact.c(860,16): warning C4133: “函数”: 从“char [3]”到“FILE *”的类型不兼容
+D:\程序记录\学生管理系统1.0\Contact.c(874,18): warning C4133: “函数”: 从“char [3]”到“FILE *”的类型不兼容
+D:\程序记录\学生管理系统1.0\Contact.c(887,18): warning C4133: “函数”: 从“char [3]”到“FILE *”的类型不兼容
+D:\程序记录\学生管理系统1.0\Contact.c(978,14): warning C4013: “Use_Stu”未定义；假设外部返回 int
+D:\程序记录\学生管理系统1.0\Contact.c(1145,17): warning C4098: “ChangePass_Stu”:“void”函数返回值
+D:\程序记录\学生管理系统1.0\Contact.c(1493,14): warning C4098: “Modify”:“void”函数返回值
+D:\程序记录\学生管理系统1.0\Contact.c(1827,2): warning C4550: 表达式计算为缺少参数列表的函数
+D:\程序记录\学生管理系统1.0\Contact.c(1859,4): warning C4033: “PartAnalysis2”必须返回值
+D:\程序记录\学生管理系统1.0\Contact.c(1866): warning C4715: “PartAnalysis2”: 不是所有的控件路径都返回值
+  学生管理系统1.0.vcxproj -> D:\程序记录\学生管理系统1.0\Debug\学生管理系统1.0.exe
